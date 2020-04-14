@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Zen of Customer Success
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> A Customer Success Management Blog.
