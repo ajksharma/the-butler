@@ -1,6 +1,6 @@
 ---
 title: "Customer Success"
-date: 2019-12-14
+date: 2020-04-14
 image: /images/customer_success.png
 tags:
   - Customer-Success
