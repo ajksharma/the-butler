@@ -5,7 +5,7 @@ keywords: "Customer Success, blog, Customer"
 author: "Ajay Sharma"
 baseurl: "/"
 canonicalurl: true
-theme: "garth"
+theme: "hyde"
 date:
   format: "j F Y"
   timezone: "Asia/Kolkata"
