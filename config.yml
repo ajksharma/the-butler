@@ -1,14 +1,14 @@
-title: "The Butler"
-baseline: "Your blogging assistant."
-description: "A ready to use static blog, powered by Cecil."
-keywords: "Cecil, Static Site Generator, SSG"
-author: "Arnaud Ligny"
+title: "Zen of Customer Success"
+baseline: "A Customer Success Blog"
+description: "A Customer Success Blog"
+keywords: "Customer Success, blog, Customer"
+author: "Ajay Sharma"
 baseurl: "/"
 canonicalurl: true
-theme: "hyde"
+theme: "garth"
 date:
   format: "j F Y"
-  timezone: "Europe/Paris"
+  timezone: "Asia/Kolkata"
 output:
   formats:
     - name: netlify_redirects
